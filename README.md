@@ -5,7 +5,7 @@
 - 😄 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/fernandaaptoledo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandaaptoledo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernandaaptoledo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaaptoledo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
