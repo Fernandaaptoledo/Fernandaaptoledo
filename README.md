@@ -23,7 +23,7 @@
   <a href = "mailto:fernandaaparecidatoledo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-aparecida-de-toledo-978a182b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![snake animation](https://github.com/fernandaaptoledo>/<fernandaaptoledo>/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/fernandaaptoledo>/<fernandaaptoledo>/blob/output/github-contribution-grid-snake2.svg)
     
  
   </div>
