@@ -8,6 +8,7 @@
   <a href="https://github.com/fernandaaptoledo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaaptoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaaptoledo&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" alt="Fernandaaptoledo-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 </div>
     
   <div style="display: inline_block"><br>
