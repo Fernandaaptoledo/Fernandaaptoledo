@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fernanda Toledo
 
 - 🔭 Atualmente estou somente estudando
-- 🌱 Realizando curso de SpringBoot
+- 🌱 Realizando alguns cursos
 - 😄 Pronouns: ela/dela
   
   <div align="center">
