@@ -3,13 +3,14 @@
 - 🔭 Atualmente estou somente estudando
 - 🌱 Realizando alguns cursos
 - 😄 Pronouns: ela/dela
-  
-<div align="center">
-<a href="https://github.com/fernandaaptoledo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?                          username=fernandaaptoledo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaaptoledo&layout=compact&langs_count=7&theme=dracula"/>
-<img align="left" alt="fernandaaptoledo-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+
+###
+<div align="left">  
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=pt-br&hide_border=true&username=fernandaaptoledo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=fernandaaptoledo" height="150" alt="languages graph"  />
 </div>
+
+###
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
