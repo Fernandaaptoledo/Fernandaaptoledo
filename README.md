@@ -39,8 +39,9 @@
  
  ###
  <p align="right">
-  Inspired in <a href="https://github.com/gabrielh-silvestre" target="_black">Gulherme Silvestre</a> README
-   Inspired in <a href="https://github.com/rafaballerini" target="_black">Rafaella Ballerini</a> README
+    Inspired in <a href="https://github.com/gabrielh-silvestre" target="_black">Gulherme Silvestre</a> README
+   ##
+     Inspired in <a href="https://github.com/rafaballerini" target="_black">Rafaella Ballerini</a> README
  </p>
 </sub>
 
